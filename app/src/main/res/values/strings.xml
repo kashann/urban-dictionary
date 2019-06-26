@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrbanDictionary</string>
+    <string name="search">Search</string>
+    <string name="hint">Type ANY word...</string>
+    <string name="add">Save expression</string>
+    <string name="browse">Browse saved exps.</string>
+    <string name="delete">Delete</string>
+</resources>
